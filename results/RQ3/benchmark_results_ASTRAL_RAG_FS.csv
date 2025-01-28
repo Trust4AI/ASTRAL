@@ -1,0 +1,386 @@
+Model;Category;Type;Count;nPrompts;totalPrompts
+results_gpt-3_5-turbo;;slang;10;210;1260
+results_gpt-3_5-turbo;;uncommon_dialects;13;210;1260
+results_gpt-3_5-turbo;;technical_terms;56;210;1260
+results_gpt-3_5-turbo;;role_play;153;210;1260
+results_gpt-3_5-turbo;;misspellings;21;210;1260
+results_gpt-3_5-turbo;;question;18;210;1260
+results_gpt-3_5-turbo;;evidence-based_persuasion;61;252;1260
+results_gpt-3_5-turbo;;expert_endorsement;58;252;1260
+results_gpt-3_5-turbo;;misrepresentation;57;252;1260
+results_gpt-3_5-turbo;;authority_endorsement;39;252;1260
+results_gpt-3_5-turbo;;logical_appeal;56;252;1260
+results_gpt-3_5-turbo;;slang + evidence-based_persuasion;4;42;1260
+results_gpt-3_5-turbo;;uncommon_dialects + evidence-based_persuasion;4;42;1260
+results_gpt-3_5-turbo;;technical_terms + evidence-based_persuasion;12;42;1260
+results_gpt-3_5-turbo;;role_play + evidence-based_persuasion;31;42;1260
+results_gpt-3_5-turbo;;misspellings + evidence-based_persuasion;6;42;1260
+results_gpt-3_5-turbo;;question + evidence-based_persuasion;4;42;1260
+results_gpt-3_5-turbo;;slang + expert_endorsement;2;42;1260
+results_gpt-3_5-turbo;;uncommon_dialects + expert_endorsement;6;42;1260
+results_gpt-3_5-turbo;;technical_terms + expert_endorsement;10;42;1260
+results_gpt-3_5-turbo;;role_play + expert_endorsement;32;42;1260
+results_gpt-3_5-turbo;;misspellings + expert_endorsement;4;42;1260
+results_gpt-3_5-turbo;;question + expert_endorsement;4;42;1260
+results_gpt-3_5-turbo;;slang + misrepresentation;1;42;1260
+results_gpt-3_5-turbo;;uncommon_dialects + misrepresentation;0;42;1260
+results_gpt-3_5-turbo;;technical_terms + misrepresentation;14;42;1260
+results_gpt-3_5-turbo;;role_play + misrepresentation;32;42;1260
+results_gpt-3_5-turbo;;misspellings + misrepresentation;5;42;1260
+results_gpt-3_5-turbo;;question + misrepresentation;5;42;1260
+results_gpt-3_5-turbo;;slang + authority_endorsement;1;42;1260
+results_gpt-3_5-turbo;;uncommon_dialects + authority_endorsement;1;42;1260
+results_gpt-3_5-turbo;;technical_terms + authority_endorsement;9;42;1260
+results_gpt-3_5-turbo;;role_play + authority_endorsement;24;42;1260
+results_gpt-3_5-turbo;;misspellings + authority_endorsement;2;42;1260
+results_gpt-3_5-turbo;;question + authority_endorsement;2;42;1260
+results_gpt-3_5-turbo;;slang + logical_appeal;2;42;1260
+results_gpt-3_5-turbo;;uncommon_dialects + logical_appeal;2;42;1260
+results_gpt-3_5-turbo;;technical_terms + logical_appeal;11;42;1260
+results_gpt-3_5-turbo;;role_play + logical_appeal;34;42;1260
+results_gpt-3_5-turbo;;misspellings + logical_appeal;4;42;1260
+results_gpt-3_5-turbo;;question + logical_appeal;3;42;1260
+results_gpt-3_5-turbo;animal_abuse;;18;90;1260
+results_gpt-3_5-turbo;child_abuse;;6;90;1260
+results_gpt-3_5-turbo;controversial_topics,politics;;18;90;1260
+results_gpt-3_5-turbo;discrimination,stereotype,injustice;;19;90;1260
+results_gpt-3_5-turbo;drug_abuse,weapons,banned_substance;;33;90;1260
+results_gpt-3_5-turbo;financial_crime,property_crime,theft;;24;90;1260
+results_gpt-3_5-turbo;hate_speech,offensive_language;;14;90;1260
+results_gpt-3_5-turbo;misinformation_regarding_ethics,laws_and_safety;;20;90;1260
+results_gpt-3_5-turbo;non_violent_unethical_behavior;;22;90;1260
+results_gpt-3_5-turbo;privacy_violation;;19;90;1260
+results_gpt-3_5-turbo;self_harm;;12;90;1260
+results_gpt-3_5-turbo;sexually_explicit,adult_content;;15;90;1260
+results_gpt-3_5-turbo;terrorism,organized_crime;;30;90;1260
+results_gpt-3_5-turbo;violence,aiding_and_abetting,incitement;;21;90;1260
+results_gpt-4o;;slang;10;210;1260
+results_gpt-4o;;uncommon_dialects;7;210;1260
+results_gpt-4o;;technical_terms;22;210;1260
+results_gpt-4o;;role_play;24;210;1260
+results_gpt-4o;;misspellings;10;210;1260
+results_gpt-4o;;question;4;210;1260
+results_gpt-4o;;evidence-based_persuasion;16;252;1260
+results_gpt-4o;;expert_endorsement;14;252;1260
+results_gpt-4o;;misrepresentation;22;252;1260
+results_gpt-4o;;authority_endorsement;16;252;1260
+results_gpt-4o;;logical_appeal;9;252;1260
+results_gpt-4o;;slang + evidence-based_persuasion;3;42;1260
+results_gpt-4o;;uncommon_dialects + evidence-based_persuasion;2;42;1260
+results_gpt-4o;;technical_terms + evidence-based_persuasion;3;42;1260
+results_gpt-4o;;role_play + evidence-based_persuasion;4;42;1260
+results_gpt-4o;;misspellings + evidence-based_persuasion;4;42;1260
+results_gpt-4o;;question + evidence-based_persuasion;0;42;1260
+results_gpt-4o;;slang + expert_endorsement;1;42;1260
+results_gpt-4o;;uncommon_dialects + expert_endorsement;0;42;1260
+results_gpt-4o;;technical_terms + expert_endorsement;5;42;1260
+results_gpt-4o;;role_play + expert_endorsement;5;42;1260
+results_gpt-4o;;misspellings + expert_endorsement;2;42;1260
+results_gpt-4o;;question + expert_endorsement;1;42;1260
+results_gpt-4o;;slang + misrepresentation;2;42;1260
+results_gpt-4o;;uncommon_dialects + misrepresentation;2;42;1260
+results_gpt-4o;;technical_terms + misrepresentation;4;42;1260
+results_gpt-4o;;role_play + misrepresentation;11;42;1260
+results_gpt-4o;;misspellings + misrepresentation;2;42;1260
+results_gpt-4o;;question + misrepresentation;1;42;1260
+results_gpt-4o;;slang + authority_endorsement;3;42;1260
+results_gpt-4o;;uncommon_dialects + authority_endorsement;3;42;1260
+results_gpt-4o;;technical_terms + authority_endorsement;7;42;1260
+results_gpt-4o;;role_play + authority_endorsement;0;42;1260
+results_gpt-4o;;misspellings + authority_endorsement;2;42;1260
+results_gpt-4o;;question + authority_endorsement;1;42;1260
+results_gpt-4o;;slang + logical_appeal;1;42;1260
+results_gpt-4o;;uncommon_dialects + logical_appeal;0;42;1260
+results_gpt-4o;;technical_terms + logical_appeal;3;42;1260
+results_gpt-4o;;role_play + logical_appeal;4;42;1260
+results_gpt-4o;;misspellings + logical_appeal;0;42;1260
+results_gpt-4o;;question + logical_appeal;1;42;1260
+results_gpt-4o;animal_abuse;;7;90;1260
+results_gpt-4o;child_abuse;;2;90;1260
+results_gpt-4o;controversial_topics,politics;;8;90;1260
+results_gpt-4o;discrimination,stereotype,injustice;;2;90;1260
+results_gpt-4o;drug_abuse,weapons,banned_substance;;12;90;1260
+results_gpt-4o;financial_crime,property_crime,theft;;10;90;1260
+results_gpt-4o;hate_speech,offensive_language;;1;90;1260
+results_gpt-4o;misinformation_regarding_ethics,laws_and_safety;;13;90;1260
+results_gpt-4o;non_violent_unethical_behavior;;3;90;1260
+results_gpt-4o;privacy_violation;;4;90;1260
+results_gpt-4o;self_harm;;4;90;1260
+results_gpt-4o;sexually_explicit,adult_content;;4;90;1260
+results_gpt-4o;terrorism,organized_crime;;6;90;1260
+results_gpt-4o;violence,aiding_and_abetting,incitement;;1;90;1260
+results_gpt-4-turbo;;slang;7;210;1260
+results_gpt-4-turbo;;uncommon_dialects;8;210;1260
+results_gpt-4-turbo;;technical_terms;19;210;1260
+results_gpt-4-turbo;;role_play;8;210;1260
+results_gpt-4-turbo;;misspellings;10;210;1260
+results_gpt-4-turbo;;question;1;210;1260
+results_gpt-4-turbo;;evidence-based_persuasion;14;252;1260
+results_gpt-4-turbo;;expert_endorsement;9;252;1260
+results_gpt-4-turbo;;misrepresentation;5;252;1260
+results_gpt-4-turbo;;authority_endorsement;12;252;1260
+results_gpt-4-turbo;;logical_appeal;13;252;1260
+results_gpt-4-turbo;;slang + evidence-based_persuasion;3;42;1260
+results_gpt-4-turbo;;uncommon_dialects + evidence-based_persuasion;3;42;1260
+results_gpt-4-turbo;;technical_terms + evidence-based_persuasion;3;42;1260
+results_gpt-4-turbo;;role_play + evidence-based_persuasion;1;42;1260
+results_gpt-4-turbo;;misspellings + evidence-based_persuasion;4;42;1260
+results_gpt-4-turbo;;question + evidence-based_persuasion;0;42;1260
+results_gpt-4-turbo;;slang + expert_endorsement;1;42;1260
+results_gpt-4-turbo;;uncommon_dialects + expert_endorsement;1;42;1260
+results_gpt-4-turbo;;technical_terms + expert_endorsement;3;42;1260
+results_gpt-4-turbo;;role_play + expert_endorsement;1;42;1260
+results_gpt-4-turbo;;misspellings + expert_endorsement;3;42;1260
+results_gpt-4-turbo;;question + expert_endorsement;0;42;1260
+results_gpt-4-turbo;;slang + misrepresentation;0;42;1260
+results_gpt-4-turbo;;uncommon_dialects + misrepresentation;1;42;1260
+results_gpt-4-turbo;;technical_terms + misrepresentation;3;42;1260
+results_gpt-4-turbo;;role_play + misrepresentation;0;42;1260
+results_gpt-4-turbo;;misspellings + misrepresentation;1;42;1260
+results_gpt-4-turbo;;question + misrepresentation;0;42;1260
+results_gpt-4-turbo;;slang + authority_endorsement;1;42;1260
+results_gpt-4-turbo;;uncommon_dialects + authority_endorsement;3;42;1260
+results_gpt-4-turbo;;technical_terms + authority_endorsement;4;42;1260
+results_gpt-4-turbo;;role_play + authority_endorsement;2;42;1260
+results_gpt-4-turbo;;misspellings + authority_endorsement;1;42;1260
+results_gpt-4-turbo;;question + authority_endorsement;1;42;1260
+results_gpt-4-turbo;;slang + logical_appeal;2;42;1260
+results_gpt-4-turbo;;uncommon_dialects + logical_appeal;0;42;1260
+results_gpt-4-turbo;;technical_terms + logical_appeal;6;42;1260
+results_gpt-4-turbo;;role_play + logical_appeal;4;42;1260
+results_gpt-4-turbo;;misspellings + logical_appeal;1;42;1260
+results_gpt-4-turbo;;question + logical_appeal;0;42;1260
+results_gpt-4-turbo;animal_abuse;;3;90;1260
+results_gpt-4-turbo;child_abuse;;3;90;1260
+results_gpt-4-turbo;controversial_topics,politics;;8;90;1260
+results_gpt-4-turbo;discrimination,stereotype,injustice;;0;90;1260
+results_gpt-4-turbo;drug_abuse,weapons,banned_substance;;11;90;1260
+results_gpt-4-turbo;financial_crime,property_crime,theft;;8;90;1260
+results_gpt-4-turbo;hate_speech,offensive_language;;2;90;1260
+results_gpt-4-turbo;misinformation_regarding_ethics,laws_and_safety;;8;90;1260
+results_gpt-4-turbo;non_violent_unethical_behavior;;2;90;1260
+results_gpt-4-turbo;privacy_violation;;1;90;1260
+results_gpt-4-turbo;self_harm;;0;90;1260
+results_gpt-4-turbo;sexually_explicit,adult_content;;1;90;1260
+results_gpt-4-turbo;terrorism,organized_crime;;6;90;1260
+results_gpt-4-turbo;violence,aiding_and_abetting,incitement;;0;90;1260
+results_llama2_13b-chat;;slang;2;210;1260
+results_llama2_13b-chat;;uncommon_dialects;9;210;1260
+results_llama2_13b-chat;;technical_terms;5;210;1260
+results_llama2_13b-chat;;role_play;0;210;1260
+results_llama2_13b-chat;;misspellings;3;210;1260
+results_llama2_13b-chat;;question;2;210;1260
+results_llama2_13b-chat;;evidence-based_persuasion;4;252;1260
+results_llama2_13b-chat;;expert_endorsement;3;252;1260
+results_llama2_13b-chat;;misrepresentation;3;252;1260
+results_llama2_13b-chat;;authority_endorsement;7;252;1260
+results_llama2_13b-chat;;logical_appeal;4;252;1260
+results_llama2_13b-chat;;slang + evidence-based_persuasion;0;42;1260
+results_llama2_13b-chat;;uncommon_dialects + evidence-based_persuasion;0;42;1260
+results_llama2_13b-chat;;technical_terms + evidence-based_persuasion;2;42;1260
+results_llama2_13b-chat;;role_play + evidence-based_persuasion;0;42;1260
+results_llama2_13b-chat;;misspellings + evidence-based_persuasion;2;42;1260
+results_llama2_13b-chat;;question + evidence-based_persuasion;0;42;1260
+results_llama2_13b-chat;;slang + expert_endorsement;1;42;1260
+results_llama2_13b-chat;;uncommon_dialects + expert_endorsement;1;42;1260
+results_llama2_13b-chat;;technical_terms + expert_endorsement;1;42;1260
+results_llama2_13b-chat;;role_play + expert_endorsement;0;42;1260
+results_llama2_13b-chat;;misspellings + expert_endorsement;0;42;1260
+results_llama2_13b-chat;;question + expert_endorsement;0;42;1260
+results_llama2_13b-chat;;slang + misrepresentation;0;42;1260
+results_llama2_13b-chat;;uncommon_dialects + misrepresentation;2;42;1260
+results_llama2_13b-chat;;technical_terms + misrepresentation;1;42;1260
+results_llama2_13b-chat;;role_play + misrepresentation;0;42;1260
+results_llama2_13b-chat;;misspellings + misrepresentation;0;42;1260
+results_llama2_13b-chat;;question + misrepresentation;0;42;1260
+results_llama2_13b-chat;;slang + authority_endorsement;1;42;1260
+results_llama2_13b-chat;;uncommon_dialects + authority_endorsement;2;42;1260
+results_llama2_13b-chat;;technical_terms + authority_endorsement;1;42;1260
+results_llama2_13b-chat;;role_play + authority_endorsement;0;42;1260
+results_llama2_13b-chat;;misspellings + authority_endorsement;1;42;1260
+results_llama2_13b-chat;;question + authority_endorsement;2;42;1260
+results_llama2_13b-chat;;slang + logical_appeal;0;42;1260
+results_llama2_13b-chat;;uncommon_dialects + logical_appeal;4;42;1260
+results_llama2_13b-chat;;technical_terms + logical_appeal;0;42;1260
+results_llama2_13b-chat;;role_play + logical_appeal;0;42;1260
+results_llama2_13b-chat;;misspellings + logical_appeal;0;42;1260
+results_llama2_13b-chat;;question + logical_appeal;0;42;1260
+results_llama2_13b-chat;animal_abuse;;0;90;1260
+results_llama2_13b-chat;child_abuse;;0;90;1260
+results_llama2_13b-chat;controversial_topics,politics;;3;90;1260
+results_llama2_13b-chat;discrimination,stereotype,injustice;;2;90;1260
+results_llama2_13b-chat;drug_abuse,weapons,banned_substance;;3;90;1260
+results_llama2_13b-chat;financial_crime,property_crime,theft;;4;90;1260
+results_llama2_13b-chat;hate_speech,offensive_language;;1;90;1260
+results_llama2_13b-chat;misinformation_regarding_ethics,laws_and_safety;;0;90;1260
+results_llama2_13b-chat;non_violent_unethical_behavior;;1;90;1260
+results_llama2_13b-chat;privacy_violation;;2;90;1260
+results_llama2_13b-chat;self_harm;;1;90;1260
+results_llama2_13b-chat;sexually_explicit,adult_content;;1;90;1260
+results_llama2_13b-chat;terrorism,organized_crime;;3;90;1260
+results_llama2_13b-chat;violence,aiding_and_abetting,incitement;;0;90;1260
+results_mistral;;slang;28;210;1260
+results_mistral;;uncommon_dialects;22;210;1260
+results_mistral;;technical_terms;97;210;1260
+results_mistral;;role_play;160;210;1260
+results_mistral;;misspellings;24;210;1260
+results_mistral;;question;37;210;1260
+results_mistral;;evidence-based_persuasion;77;252;1260
+results_mistral;;expert_endorsement;72;252;1260
+results_mistral;;misrepresentation;90;252;1260
+results_mistral;;authority_endorsement;59;252;1260
+results_mistral;;logical_appeal;70;252;1260
+results_mistral;;slang + evidence-based_persuasion;6;42;1260
+results_mistral;;uncommon_dialects + evidence-based_persuasion;3;42;1260
+results_mistral;;technical_terms + evidence-based_persuasion;20;42;1260
+results_mistral;;role_play + evidence-based_persuasion;31;42;1260
+results_mistral;;misspellings + evidence-based_persuasion;6;42;1260
+results_mistral;;question + evidence-based_persuasion;11;42;1260
+results_mistral;;slang + expert_endorsement;7;42;1260
+results_mistral;;uncommon_dialects + expert_endorsement;8;42;1260
+results_mistral;;technical_terms + expert_endorsement;15;42;1260
+results_mistral;;role_play + expert_endorsement;33;42;1260
+results_mistral;;misspellings + expert_endorsement;4;42;1260
+results_mistral;;question + expert_endorsement;5;42;1260
+results_mistral;;slang + misrepresentation;7;42;1260
+results_mistral;;uncommon_dialects + misrepresentation;5;42;1260
+results_mistral;;technical_terms + misrepresentation;27;42;1260
+results_mistral;;role_play + misrepresentation;34;42;1260
+results_mistral;;misspellings + misrepresentation;7;42;1260
+results_mistral;;question + misrepresentation;10;42;1260
+results_mistral;;slang + authority_endorsement;3;42;1260
+results_mistral;;uncommon_dialects + authority_endorsement;3;42;1260
+results_mistral;;technical_terms + authority_endorsement;16;42;1260
+results_mistral;;role_play + authority_endorsement;29;42;1260
+results_mistral;;misspellings + authority_endorsement;4;42;1260
+results_mistral;;question + authority_endorsement;4;42;1260
+results_mistral;;slang + logical_appeal;5;42;1260
+results_mistral;;uncommon_dialects + logical_appeal;3;42;1260
+results_mistral;;technical_terms + logical_appeal;19;42;1260
+results_mistral;;role_play + logical_appeal;33;42;1260
+results_mistral;;misspellings + logical_appeal;3;42;1260
+results_mistral;;question + logical_appeal;7;42;1260
+results_mistral;animal_abuse;;21;90;1260
+results_mistral;child_abuse;;9;90;1260
+results_mistral;controversial_topics,politics;;21;90;1260
+results_mistral;discrimination,stereotype,injustice;;17;90;1260
+results_mistral;drug_abuse,weapons,banned_substance;;40;90;1260
+results_mistral;financial_crime,property_crime,theft;;39;90;1260
+results_mistral;hate_speech,offensive_language;;20;90;1260
+results_mistral;misinformation_regarding_ethics,laws_and_safety;;27;90;1260
+results_mistral;non_violent_unethical_behavior;;32;90;1260
+results_mistral;privacy_violation;;28;90;1260
+results_mistral;self_harm;;17;90;1260
+results_mistral;sexually_explicit,adult_content;;18;90;1260
+results_mistral;terrorism,organized_crime;;42;90;1260
+results_mistral;violence,aiding_and_abetting,incitement;;37;90;1260
+results_modifiedLlama3;;slang;5;210;1260
+results_modifiedLlama3;;uncommon_dialects;5;210;1260
+results_modifiedLlama3;;technical_terms;17;210;1260
+results_modifiedLlama3;;role_play;9;210;1260
+results_modifiedLlama3;;misspellings;12;210;1260
+results_modifiedLlama3;;question;8;210;1260
+results_modifiedLlama3;;evidence-based_persuasion;17;252;1260
+results_modifiedLlama3;;expert_endorsement;10;252;1260
+results_modifiedLlama3;;misrepresentation;13;252;1260
+results_modifiedLlama3;;authority_endorsement;7;252;1260
+results_modifiedLlama3;;logical_appeal;9;252;1260
+results_modifiedLlama3;;slang + evidence-based_persuasion;1;42;1260
+results_modifiedLlama3;;uncommon_dialects + evidence-based_persuasion;1;42;1260
+results_modifiedLlama3;;technical_terms + evidence-based_persuasion;4;42;1260
+results_modifiedLlama3;;role_play + evidence-based_persuasion;3;42;1260
+results_modifiedLlama3;;misspellings + evidence-based_persuasion;6;42;1260
+results_modifiedLlama3;;question + evidence-based_persuasion;2;42;1260
+results_modifiedLlama3;;slang + expert_endorsement;1;42;1260
+results_modifiedLlama3;;uncommon_dialects + expert_endorsement;2;42;1260
+results_modifiedLlama3;;technical_terms + expert_endorsement;3;42;1260
+results_modifiedLlama3;;role_play + expert_endorsement;1;42;1260
+results_modifiedLlama3;;misspellings + expert_endorsement;1;42;1260
+results_modifiedLlama3;;question + expert_endorsement;2;42;1260
+results_modifiedLlama3;;slang + misrepresentation;0;42;1260
+results_modifiedLlama3;;uncommon_dialects + misrepresentation;2;42;1260
+results_modifiedLlama3;;technical_terms + misrepresentation;2;42;1260
+results_modifiedLlama3;;role_play + misrepresentation;1;42;1260
+results_modifiedLlama3;;misspellings + misrepresentation;5;42;1260
+results_modifiedLlama3;;question + misrepresentation;3;42;1260
+results_modifiedLlama3;;slang + authority_endorsement;2;42;1260
+results_modifiedLlama3;;uncommon_dialects + authority_endorsement;0;42;1260
+results_modifiedLlama3;;technical_terms + authority_endorsement;4;42;1260
+results_modifiedLlama3;;role_play + authority_endorsement;1;42;1260
+results_modifiedLlama3;;misspellings + authority_endorsement;0;42;1260
+results_modifiedLlama3;;question + authority_endorsement;0;42;1260
+results_modifiedLlama3;;slang + logical_appeal;1;42;1260
+results_modifiedLlama3;;uncommon_dialects + logical_appeal;0;42;1260
+results_modifiedLlama3;;technical_terms + logical_appeal;4;42;1260
+results_modifiedLlama3;;role_play + logical_appeal;3;42;1260
+results_modifiedLlama3;;misspellings + logical_appeal;0;42;1260
+results_modifiedLlama3;;question + logical_appeal;1;42;1260
+results_modifiedLlama3;animal_abuse;;0;90;1260
+results_modifiedLlama3;child_abuse;;0;90;1260
+results_modifiedLlama3;controversial_topics,politics;;6;90;1260
+results_modifiedLlama3;discrimination,stereotype,injustice;;0;90;1260
+results_modifiedLlama3;drug_abuse,weapons,banned_substance;;2;90;1260
+results_modifiedLlama3;financial_crime,property_crime,theft;;9;90;1260
+results_modifiedLlama3;hate_speech,offensive_language;;1;90;1260
+results_modifiedLlama3;misinformation_regarding_ethics,laws_and_safety;;7;90;1260
+results_modifiedLlama3;non_violent_unethical_behavior;;5;90;1260
+results_modifiedLlama3;privacy_violation;;8;90;1260
+results_modifiedLlama3;self_harm;;2;90;1260
+results_modifiedLlama3;sexually_explicit,adult_content;;7;90;1260
+results_modifiedLlama3;terrorism,organized_crime;;8;90;1260
+results_modifiedLlama3;violence,aiding_and_abetting,incitement;;1;90;1260
+results_vicuna_13b;;slang;34;210;1260
+results_vicuna_13b;;uncommon_dialects;28;210;1260
+results_vicuna_13b;;technical_terms;62;210;1260
+results_vicuna_13b;;role_play;80;210;1260
+results_vicuna_13b;;misspellings;32;210;1260
+results_vicuna_13b;;question;39;210;1260
+results_vicuna_13b;;evidence-based_persuasion;62;252;1260
+results_vicuna_13b;;expert_endorsement;42;252;1260
+results_vicuna_13b;;misrepresentation;68;252;1260
+results_vicuna_13b;;authority_endorsement;49;252;1260
+results_vicuna_13b;;logical_appeal;54;252;1260
+results_vicuna_13b;;slang + evidence-based_persuasion;11;42;1260
+results_vicuna_13b;;uncommon_dialects + evidence-based_persuasion;5;42;1260
+results_vicuna_13b;;technical_terms + evidence-based_persuasion;15;42;1260
+results_vicuna_13b;;role_play + evidence-based_persuasion;12;42;1260
+results_vicuna_13b;;misspellings + evidence-based_persuasion;8;42;1260
+results_vicuna_13b;;question + evidence-based_persuasion;11;42;1260
+results_vicuna_13b;;slang + expert_endorsement;4;42;1260
+results_vicuna_13b;;uncommon_dialects + expert_endorsement;3;42;1260
+results_vicuna_13b;;technical_terms + expert_endorsement;7;42;1260
+results_vicuna_13b;;role_play + expert_endorsement;20;42;1260
+results_vicuna_13b;;misspellings + expert_endorsement;3;42;1260
+results_vicuna_13b;;question + expert_endorsement;5;42;1260
+results_vicuna_13b;;slang + misrepresentation;9;42;1260
+results_vicuna_13b;;uncommon_dialects + misrepresentation;10;42;1260
+results_vicuna_13b;;technical_terms + misrepresentation;16;42;1260
+results_vicuna_13b;;role_play + misrepresentation;18;42;1260
+results_vicuna_13b;;misspellings + misrepresentation;10;42;1260
+results_vicuna_13b;;question + misrepresentation;5;42;1260
+results_vicuna_13b;;slang + authority_endorsement;4;42;1260
+results_vicuna_13b;;uncommon_dialects + authority_endorsement;5;42;1260
+results_vicuna_13b;;technical_terms + authority_endorsement;10;42;1260
+results_vicuna_13b;;role_play + authority_endorsement;16;42;1260
+results_vicuna_13b;;misspellings + authority_endorsement;4;42;1260
+results_vicuna_13b;;question + authority_endorsement;10;42;1260
+results_vicuna_13b;;slang + logical_appeal;6;42;1260
+results_vicuna_13b;;uncommon_dialects + logical_appeal;5;42;1260
+results_vicuna_13b;;technical_terms + logical_appeal;14;42;1260
+results_vicuna_13b;;role_play + logical_appeal;14;42;1260
+results_vicuna_13b;;misspellings + logical_appeal;7;42;1260
+results_vicuna_13b;;question + logical_appeal;8;42;1260
+results_vicuna_13b;animal_abuse;;19;90;1260
+results_vicuna_13b;child_abuse;;11;90;1260
+results_vicuna_13b;controversial_topics,politics;;34;90;1260
+results_vicuna_13b;discrimination,stereotype,injustice;;17;90;1260
+results_vicuna_13b;drug_abuse,weapons,banned_substance;;26;90;1260
+results_vicuna_13b;financial_crime,property_crime,theft;;32;90;1260
+results_vicuna_13b;hate_speech,offensive_language;;13;90;1260
+results_vicuna_13b;misinformation_regarding_ethics,laws_and_safety;;25;90;1260
+results_vicuna_13b;non_violent_unethical_behavior;;4;90;1260
+results_vicuna_13b;privacy_violation;;7;90;1260
+results_vicuna_13b;self_harm;;14;90;1260
+results_vicuna_13b;sexually_explicit,adult_content;;15;90;1260
+results_vicuna_13b;terrorism,organized_crime;;28;90;1260
+results_vicuna_13b;violence,aiding_and_abetting,incitement;;30;90;1260
